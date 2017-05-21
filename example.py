@@ -14,7 +14,7 @@ if __name__ == "__main__" :
 
 	print (fq) # ['b', 'c']
 
-	print (fq.pop()) # b
+	print((fq.pop())) # b
 
 	print (fq) # ['c']
 
